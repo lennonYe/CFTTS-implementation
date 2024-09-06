@@ -1,1 +1,3 @@
 # CFTTS-implementation
+This is the official implementation CONTRASTIVEFLOWTTS: A FLOW-BASED TEXT-TO-SPEECH MODEL USING
+CONTRASTIVE METHODS FOR FEATURE ENHANCEMENT for paper submitting to ICASSP 2025.
